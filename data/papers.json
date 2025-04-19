@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Physics-Informed Neural Networks (Example)",
+      "authors": ["M. Raissi", "P. Perdikaris", "G. E. Karniadakis"],
+      "year": 2019,
+      "link": "https://arxiv.org/abs/1711.10561"
+    },
+    {
+        "title": "Neural Operator: Learning Operators with Deep Neural Networks (Example)",
+        "authors": ["Zongyi Li", "Nikola Kovachki", "Burigede Liu", "Anima Anandkumar"],
+        "year": 2020,
+        "link": "https://arxiv.org/abs/2005.03141"
+      }
+  ]
+  
